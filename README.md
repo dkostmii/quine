@@ -1,6 +1,8 @@
 # quine
 
-Tried to create quine in python.
+Simple quine program in Python.
+
+![Quine in REPL](./python-quine.gif)
 
 Seems, I understand, how it works.
 
